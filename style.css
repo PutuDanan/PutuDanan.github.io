@@ -614,7 +614,13 @@ button:hover {
     height: 185px;
     left: 1198px;
     top: 3854px;
+}
+.isi-follow a {
+    text-decoration: none;
     color: rgba(255, 255, 255, 0.5);
+}
+.isi-follow a:hover {
+    color: #0BC582;
 }
 /* End Footer */
 
